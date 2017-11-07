@@ -25,20 +25,25 @@ body, html {
 }
 
 .bgimg-3 {
-  background-image: url("https://media.giphy.com/media/BmmfETghGOPrW/giphy.gif");
+  background-image: url("https://media.giphy.com/media/l0CLTvvwew4bhdnTa/giphy.gif");
   min-height: 450px;
 }
 .bgimg-4 {
-  background-image: url("https://media.giphy.com/media/lAK7ACXBaEy4/giphy.gif");
+  background-image: url("https://media.giphy.com/media/l2QEfinqYMsSN3mCY/giphy.gif");
   min-height: 450px;
 }
 
 .bgimg-5 {
-  background-image: url("https://media.giphy.com/media/3o7aCXvs2dCIPps2Yw/giphy.gif");
+  background-image: url("https://media.giphy.com/media/xUOxfi868P6iwCTSsU/giphy.gif");
   min-height: 450px;
 }
 
 .bgimg-6 {
+  background-image: url("https://media.giphy.com/media/l2QDXhI17EnTeocwg/giphy.gif");
+  min-height: 450px;
+}
+
+.bgimg-7 {
   background-image: url("http://media.timeout.com/blogimages/wp-content/uploads/2013/05/tube.gif");
   min-height: 450px;
 }
